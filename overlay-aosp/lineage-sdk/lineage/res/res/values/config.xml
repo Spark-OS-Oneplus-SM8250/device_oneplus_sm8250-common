@@ -80,4 +80,7 @@
     <!-- Face unlock -->
     <bool name="config_faceAuthOnlyOnSecurityView">true</bool>
 
+    <!-- Whether device supports Dolby -->
+    <bool name="config_deviceSupportsDolby">true</bool>
+
 </resources>

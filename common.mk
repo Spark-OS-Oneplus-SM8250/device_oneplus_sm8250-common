@@ -356,7 +356,8 @@ PRODUCT_PACKAGES += \
 # Preopt SystemUI    
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     Settings \
-    SystemUI
+    SystemUI \
+    Launcher3QuickStep
 
 # QMI
 PRODUCT_PACKAGES += \

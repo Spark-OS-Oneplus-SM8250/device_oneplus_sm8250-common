@@ -321,11 +321,14 @@ PRODUCT_PACKAGES += \
     CarrierConfigResCommon \
     FrameworksResTarget \
     OPlusFrameworksResCommon \
-    OPlusSettingsResCommon
+    OPlusSettingsResCommon \
     OPlusSystemUIResCommon \
     OnePlusGalleryOverlay \
     OPSoundTunerOverlay \
-    WifiResTarget
+    WifiResTarget \
+    frameworks \
+    packages \
+    lineage-sdk
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true

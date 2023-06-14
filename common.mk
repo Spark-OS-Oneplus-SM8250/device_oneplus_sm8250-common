@@ -370,6 +370,9 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
     Launcher3QuickStep
 
+PRODUCT_PACKAGES += \
+    vendor.qti.hardware.perf@2.0.vendor
+
 # QMI
 PRODUCT_PACKAGES += \
     libjson \

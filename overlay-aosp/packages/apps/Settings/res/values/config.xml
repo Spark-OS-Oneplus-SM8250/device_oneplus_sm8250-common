@@ -8,4 +8,7 @@
     <!-- Max network scan search time in seconds -->
     <integer name="config_network_scan_helper_max_search_time_sec">254</integer>
 
+   <!-- Whether device has screen off FOD support -->
+   <bool name="config_supportScreenOffFod">true</bool>
+
 </resources>
